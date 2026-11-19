@@ -1,0 +1,950 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "Official PS5 trophy list as listed by Exophase and PSNProfiles (18 Nov 2026): 55 trophies, 1 platinum, 2 gold, 6 silver, 46 bronze, 28 hidden on PSN until earned. Names and descriptions are PlayStation's own. Every guide below is written for this entry, in its own words, from the official description and the sources it names; a fact taken from another guide is cited beside it, never copied.",
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "kind": "story",
+      "stage": 7,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "The platinum unlocks when every other trophy is earned — it is the sum of this whole guide, not a task of its own. Work the roadmap stages in order: story first, then the 100% checklist, then strands and cleanup. All 55 trophies are offline single-player, no DLC is needed, and PowerPyx rates the set 4/10 at about 200 hours.",
+      "steps": [
+        "Finish the story (stages 1–2) and take optional missions as they appear.",
+        "Work the 100% checklist after the credits (stage 7's A Long Road).",
+        "Finish the stranger strands and the cleanup trophies last."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Complete the opening mission, Gone Fishing. It is the first story trophy and unlocks as the story opens — just play from the start. Fishing itself is one of the game's 9 activity types, so this mission also introduces the fishing you'll need later.",
+      "steps": [
+        "Play the story from the beginning.",
+        "Finish the Gone Fishing mission."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "watch": true,
+      "counter": null,
+      "guide": "Complete Chapter 1 by playing its missions in order. Do the first meditation at Jason's house during this chapter — PowerPyx flags it as the one missable moment in the whole game: that spot is permanently unavailable after Chapter 1, and it is one of the 18 meditation spots needed for Positive Mental Attitude.",
+      "steps": [
+        "Play through Chapter 1's missions.",
+        "Before the chapter ends, meditate at Jason's house (see Positive Mental Attitude).",
+        "Finish the chapter's final mission."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Complete Chapter 2. Chapters unlock in order, so keep playing the story; there is nothing to miss here, and free-roam continues after the credits if anything is left over.",
+      "steps": [
+        "Play through Chapter 2's missions.",
+        "Finish the chapter's final mission."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Complete Chapter 3. Story trophies unlock by finishing chapters, so this one comes from playing on. Use the chapter to scan new vehicles and study animals through the binoculars — that progress counts toward the 100% checklist later.",
+      "steps": [
+        "Play through Chapter 3's missions.",
+        "Scan vehicles and study animals as you travel."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Complete Chapter 4. The last chapter before the finale — finish its missions in order and the trophy unlocks at the chapter's end.",
+      "steps": [
+        "Play through Chapter 4's missions.",
+        "Finish the chapter's final mission."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Complete the final mission to finish the story. There is no mission replay, but free-roam continues after the credits, so everything except the Chapter 1 meditation can still be done afterwards — nothing in the finale itself can be missed.",
+      "steps": [
+        "Finish Chapters 1–4.",
+        "Play the final mission to the credits."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "kind": "mission",
+      "stage": 2,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Complete the story mission Breakfast Run. Story missions appear in order as you play; finish this one when it comes up and the trophy unlocks at its end.",
+      "steps": [
+        "Reach Breakfast Run in the story.",
+        "Complete the mission."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "kind": "mission",
+      "stage": 2,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Complete the story mission The Cartel Heist. Heist missions are story beats — play the mission through when it appears; the trophy is for finishing it, not for how cleanly it goes.",
+      "steps": [
+        "Reach The Cartel Heist in the story.",
+        "Complete the mission."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "kind": "mission",
+      "stage": 2,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Complete the story mission Child's Play. Another story beat — it unlocks by finishing the mission, whenever it appears in your playthrough.",
+      "steps": [
+        "Reach Child's Play in the story.",
+        "Complete the mission."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "kind": "mission",
+      "stage": 2,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Complete the story mission Headliners. Finish the mission when it appears in the story and the trophy unlocks at its end.",
+      "steps": [
+        "Reach Headliners in the story.",
+        "Complete the mission."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "kind": "mission",
+      "stage": 2,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Complete the story mission VCIA Takedown at Vice City International Airport. Finish it when it appears; the airport itself is also where Catch Me If You Can is earned, so you will know the area.",
+      "steps": [
+        "Reach VCIA Takedown in the story.",
+        "Complete the mission."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "kind": "mission",
+      "stage": 2,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Complete the story mission Operation Savage Glory. Finish the mission when it appears in the story and the trophy unlocks at its end.",
+      "steps": [
+        "Reach Operation Savage Glory in the story.",
+        "Complete the mission."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "kind": "challenge",
+      "stage": 7,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Attain 100% Completion — the hardest trophy in the set, according to PowerPyx. The checklist (Progress > Stats > 100% Completion) appears after the story, but progress made earlier counts, and nothing on it is missable. The thresholds are lenient, about 60% of true completion: 200 of 277 vehicles scanned, 100 of 255 animals studied through the binoculars, 50 of 66 weapons, and any 70 of the 80 challenges. Most of it comes from doing the other trophies.",
+      "steps": [
+        "Finish the story first; the checklist opens after the credits.",
+        "Scan vehicles (200 of 277) and study animals (100 of 255) as you travel.",
+        "Complete any 70 of the 80 challenges — skip the hardest ones.",
+        "Check Progress > Stats > 100% Completion to see what is left."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "kind": "challenge",
+      "stage": 3,
+      "missable": false,
+      "watch": false,
+      "counter": {"target": 250, "unit": "stunts"},
+      "guide": "Complete 250 stunts. Stunts add up across the whole game — jumps, near-misses and stunt driving all feed the same running total, so this is a background trophy: play normally, take jumps when you see them, and check the count under Progress > Activities. It is one of the longer grinds, alongside the 100 WAiNK locations.",
+      "steps": [
+        "Take jumps and stunt opportunities whenever you drive.",
+        "Check the running total under Progress > Activities.",
+        "Keep going until the counter reaches 250."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "kind": "activity",
+      "stage": 3,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Try each type of activity once. The game tracks 9 activity types (Touchpad > Progress > Activities): racing, fishing, the shooting range, arcade games, drone racing and the rest. Sample one of each rather than grinding one — a single try of each type is enough.",
+      "steps": [
+        "Open Touchpad > Progress > Activities to see the 9 types.",
+        "Try one of each type, once."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "kind": "challenge",
+      "stage": 3,
+      "missable": false,
+      "watch": false,
+      "counter": {"target": 42, "unit": "gold medals"},
+      "guide": "Earn a gold medal in all 42 Shooting Range challenges (PSN's count). The challenges are short and repeatable, so retry the ones you miss — a gold on every challenge is the requirement, and there is no penalty for retrying.",
+      "steps": [
+        "Visit a Shooting Range and try its challenges.",
+        "Replay any challenge until you gold it.",
+        "Gold all 42 challenges."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "kind": "activity",
+      "stage": 3,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Win a Top Fun Drone Race at every location. Each drone-race location needs one win — a win at a new location is progress, and repeats at a location you already won do not add to it.",
+      "steps": [
+        "Find the Top Fun Drone Race locations across Leonida.",
+        "Win at least once at each location."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "kind": "activity",
+      "stage": 3,
+      "missable": false,
+      "watch": false,
+      "counter": {"target": 20, "unit": "races won"},
+      "guide": "Win 20 different races. The count is of distinct races — winning the same race twice adds nothing, so work through the race list and win each one once.",
+      "steps": [
+        "Find the races across Leonida.",
+        "Win 20 different ones; repeats do not count."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "kind": "activity",
+      "stage": 3,
+      "missable": false,
+      "watch": true,
+      "counter": null,
+      "guide": "Beat Cal in a fishing challenge. Cal is a named fishing challenger — take his challenge when it is offered and out-fish him. Fishing is one of the 9 activity types, so the Gone Fishing opener is good practice.",
+      "steps": [
+        "Take Cal's fishing challenge when it is offered.",
+        "Out-fish Cal to win it."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "kind": "activity",
+      "stage": 3,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Complete an arcade game. Find an arcade cabinet, start any game on it and play it through to the end — finishing one game is the whole requirement.",
+      "steps": [
+        "Find an arcade cabinet.",
+        "Play any arcade game to completion."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "kind": "strand",
+      "stage": 2,
+      "missable": false,
+      "watch": true,
+      "counter": null,
+      "guide": "Complete the final mission for Andy. Stranger strands are short mission chains that stay available in free-roam after the story — take Andy's missions as their markers appear and play the strand to its end.",
+      "steps": [
+        "Start Andy's strand when its marker appears.",
+        "Play its missions through to the finale."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "kind": "strand",
+      "stage": 2,
+      "missable": false,
+      "watch": true,
+      "counter": null,
+      "guide": "Complete the final mission for Kenton. Like the other stranger strands, Kenton's chain stays available in free-roam after the story — start it when its marker appears and play it through to the finale.",
+      "steps": [
+        "Start Kenton's strand when its marker appears.",
+        "Play its missions through to the finale."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "kind": "strand",
+      "stage": 2,
+      "missable": false,
+      "watch": true,
+      "counter": null,
+      "guide": "Complete the final mission for Billy. Billy's strand is one of the stranger chains — take its missions as they appear and play through to the finale; strands stay available after the story.",
+      "steps": [
+        "Start Billy's strand when its marker appears.",
+        "Play its missions through to the finale."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "kind": "strand",
+      "stage": 2,
+      "missable": false,
+      "watch": true,
+      "counter": {"target": 8, "unit": "strands"},
+      "guide": "Complete 8 mission strands for strangers across Leonida. Each strand is a short chain with its own finale — Andy, Kenton, Billy, Randy and Tyrone each have one, and there are more. Finish any 8; the strand finales (trophies 22–24, 26–27) each count toward this one.",
+      "steps": [
+        "Take stranger missions as their markers appear.",
+        "Finish 8 full strands, any 8."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "kind": "strand",
+      "stage": 2,
+      "missable": false,
+      "watch": true,
+      "counter": null,
+      "guide": "Complete the final mission for Randy. Randy's strand is one of the stranger chains — start it when its marker appears and play it through to the finale; strands stay available in free-roam after the story.",
+      "steps": [
+        "Start Randy's strand when its marker appears.",
+        "Play its missions through to the finale."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "kind": "strand",
+      "stage": 2,
+      "missable": false,
+      "watch": true,
+      "counter": null,
+      "guide": "Complete the final mission for Tyrone. Tyrone's strand is one of the stranger chains — take its missions as they appear and play through to the finale; strands stay available after the story.",
+      "steps": [
+        "Start Tyrone's strand when its marker appears.",
+        "Play its missions through to the finale."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "kind": "activity",
+      "stage": 3,
+      "missable": true,
+      "watch": true,
+      "counter": {"target": 18, "unit": "spots"},
+      "guide": "Meditate at every spot across Leonida — 18 spots in 10 locations, with Jason and Lucia (PowerPyx). THIS IS THE ONE MISSABLE TROPHY: the first meditation spot is at Jason's house in Chapter 1 and becomes permanently unavailable after that chapter. Meditate there before finishing Chapter 1, then find the other 17 spots as you explore.",
+      "steps": [
+        "In Chapter 1, meditate at Jason's house BEFORE the chapter ends.",
+        "Find the remaining 17 spots across Leonida's 10 meditation locations.",
+        "Meditate at every spot."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "kind": "strand",
+      "stage": 2,
+      "missable": false,
+      "watch": true,
+      "counter": null,
+      "guide": "Hunt a unique animal for Bret. Bret asks you to track down one specific animal — study animals through the binoculars as you travel (the 100% checklist wants 100 of 255 studied), then take the hunt when Bret offers it.",
+      "steps": [
+        "Study animals through the binoculars while exploring.",
+        "Take Bret's hunt when it is offered and track the unique animal."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "kind": "collectible",
+      "stage": 4,
+      "missable": false,
+      "watch": false,
+      "counter": {"target": 3, "unit": "sets"},
+      "guide": "Complete 3 Collectible Card sets. Cards are scattered across Leonida — collect them and finish any 3 full sets. Sets, not single cards, are what counts.",
+      "steps": [
+        "Collect cards as you explore.",
+        "Complete any 3 full sets."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "kind": "exploration",
+      "stage": 4,
+      "missable": false,
+      "watch": false,
+      "counter": {"target": 100, "unit": "locations"},
+      "guide": "WAiNK It at 100 locations. Use the WAiNK feature at 100 different spots across Leonida — spread it across your travels instead of grinding one area, and it will build up alongside the exploration for The Goodtime State.",
+      "steps": [
+        "Use WAiNK at new locations as you travel.",
+        "Reach 100 different locations."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "kind": "challenge",
+      "stage": 3,
+      "missable": false,
+      "watch": false,
+      "counter": {"target": 50, "unit": "challenges"},
+      "guide": "Complete 50 challenges. There are 80 challenges in total, and you only need 50 for this trophy — 70 for the 100% checklist (PowerPyx). Skip the hardest ones; the count is cumulative across every challenge type.",
+      "steps": [
+        "Work through challenges of any type.",
+        "Complete 50 of the 80 — skip the hardest."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "watch": true,
+      "counter": null,
+      "guide": "Lose a 4-star Wanted Level with your partner and escape the heat. Build the wanted level to 4 stars while your partner is with you, then break line of sight, stay out of the search area and wait until the stars clear.",
+      "steps": [
+        "Have your partner with you and raise the wanted level to 4 stars.",
+        "Break line of sight and hide until the heat dies down."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "watch": true,
+      "counter": {"target": 3, "unit": "shops"},
+      "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Chain three shop robberies in one run, keeping the wanted level the whole way — plan the route between three nearby shops first, and do not let the heat drop between them.",
+      "steps": [
+        "Pick three nearby shops and plan the route.",
+        "Rob all three back-to-back with your partner, keeping the wanted level."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "kind": "exploration",
+      "stage": 4,
+      "missable": false,
+      "watch": false,
+      "counter": {"target": 100, "unit": "vehicles"},
+      "guide": "Discover 100 vehicles. Scan new vehicles as you meet them — the 100% checklist wants 200 of 277 scanned, so this trophy comes naturally on the way there. Any new model you scan adds to the total.",
+      "steps": [
+        "Scan every new vehicle model you meet.",
+        "Reach 100 discovered."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Take down 5 enemies in a single use of Combat Focus. Wait for a group of enemies, activate Combat Focus with all five in front of you, and drop them before it ends — a crowded firefight is the place to try it.",
+      "steps": [
+        "Find a group of at least 5 enemies.",
+        "Activate Combat Focus and take down 5 before it ends."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Make an unscheduled departure at VCIA — Vice City International Airport. Leave the airport in a plane without going through a scheduled departure: get to a runway aircraft and take off on your own terms.",
+      "steps": [
+        "Go to VCIA and reach a runway aircraft.",
+        "Take off without a scheduled departure."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Kinda hot in these Rhinos. The trophy's own words point at the Rhino tank — get into one and put it to use. How exactly it triggers is not yet pinned down by the guides we checked, so we will not guess a location: find a Rhino, drive it into trouble, and see it through.",
+      "steps": [
+        "Find a Rhino tank.",
+        "Drive it into action."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Rob a jewelry store without being detected. Go in quiet — no alarms, no one spotting you — take the goods and get out clean. If you are spotted, leave and try again; the attempt is what counts, not the first try.",
+      "steps": [
+        "Enter a jewelry store undetected.",
+        "Rob it and leave without being spotted."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "watch": false,
+      "counter": {"target": 5, "unit": "vaults"},
+      "guide": "Rob 5 bank vaults and escape. Hit five different bank vaults and get away clean each time — the escape counts, so plan your exit before you go in.",
+      "steps": [
+        "Rob a bank vault and escape.",
+        "Repeat at 5 vaults."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Rob an armored truck and escape. Stop a truck on the road, take its cargo and get away before the response arrives — the escape is part of the trophy, so do not linger at the scene.",
+      "steps": [
+        "Find an armored truck on the road.",
+        "Rob it and escape."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "kind": "exploration",
+      "stage": 4,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Explore all of Leonida. Cover the whole map — every region of the state counts once you have passed through it. This builds naturally as you travel for the other trophies, and it pairs with the WAiNK locations and vehicle scanning.",
+      "steps": [
+        "Travel through every region of Leonida.",
+        "Check the map for areas you have not visited."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "kind": "combat",
+      "stage": 5,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Rob an illegal operation belonging to each gang. Every gang in Leonida runs illegal operations — hit one operation per gang until each gang has been robbed once.",
+      "steps": [
+        "Find the illegal operations of each gang.",
+        "Rob one operation per gang."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "kind": "secret",
+      "stage": 7,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. The description is the guide: find a bar spot on Ocean Beach with a view and order a cocktail. PowerPyx lists this trophy's unlock as not yet pinned down (18 Nov 2026), so take the description at its word — a drink, a view, Ocean Beach.",
+      "steps": [
+        "Go to Ocean Beach.",
+        "Find a spot with a view and enjoy a cocktail."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "kind": "secret",
+      "stage": 7,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Smash your way out of a vehicle showroom in classic style. Take a car through a showroom's front — the 'classic style' nod is to the old games' showroom rampage. PowerPyx lists this trophy as not yet pinned down (18 Nov 2026), so the description itself is the best guide we have.",
+      "steps": [
+        "Find a vehicle showroom.",
+        "Smash a car out through its front."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "kind": "secret",
+      "stage": 7,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Follow-through at the Kolt & Associates' bowling alley. Bowl at the Kolt & Associates alley and follow through on the shot — the trophy is about the follow-through, so finish the motion properly.",
+      "steps": [
+        "Go to the Kolt & Associates bowling alley.",
+        "Bowl and follow through on the shot."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "kind": "secret",
+      "stage": 7,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "A partnership with mass appeal. The description is cryptic — it points at a partnership moment that appeals to the masses. The guides we checked have not pinned this one down yet, so we will not guess a location: watch for a partnership event as you play, and check back when more is known.",
+      "steps": [
+        "Play the story and its partnership moments.",
+        "Check back: this trophy is not yet pinned down by the guides we checked."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "kind": "secret",
+      "stage": 7,
+      "missable": false,
+      "watch": true,
+      "counter": null,
+      "guide": "Choices made (for better or worse). Somewhere in the story a choice changes things — play the story and decide deliberately, because a choice may lock an outcome. There is no mission replay, so think before you pick.",
+      "steps": [
+        "Play the story.",
+        "When a choice appears, decide deliberately — it may lock an outcome."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "kind": "secret",
+      "stage": 7,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Second time's the charm. The description implies a first failure followed by a success — fail something once, then get it on the second try. PowerPyx lists this trophy as not yet pinned down (18 Nov 2026), so treat the description as the hint: it is about retrying after a failure.",
+      "steps": [
+        "Attempt something and fail once.",
+        "Succeed on the second try."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "kind": "secret",
+      "stage": 7,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "What the hell just happened? An easter-egg moment — something strange in the world. PowerPyx lists this trophy as not yet pinned down (18 Nov 2026); the description itself says it all, so keep your eyes open for something that makes you ask exactly that question.",
+      "steps": [
+        "Explore Leonida and watch for something strange.",
+        "Check back: this trophy is not yet pinned down by the guides we checked."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "kind": "secret",
+      "stage": 7,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Bowl 'em over with a melee drive-by. While driving, knock the pins over with a melee attack — a drive-by with a bat or similar weapon, aimed at the pins. PowerPyx lists this trophy as not yet pinned down (18 Nov 2026), so the description is the guide: melee, drive-by, pins.",
+      "steps": [
+        "Find the pins.",
+        "Drive by and knock them over with a melee attack."
+      ],
+      "sources": ["exophase", "psnprofiles", "powerpyx"]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "kind": "money",
+      "stage": 6,
+      "missable": false,
+      "watch": false,
+      "counter": {"target": 250000, "unit": "$ laundered"},
+      "guide": "Earn $250,000 laundering Marked Bills through your contacts. Launder marked bills through your contacts until $250,000 is clean — it adds up over the whole game, so keep laundering as bills come in rather than saving them all for the end.",
+      "steps": [
+        "Collect Marked Bills as you play.",
+        "Launder them through your contacts.",
+        "Reach $250,000 laundered."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "kind": "money",
+      "stage": 6,
+      "missable": false,
+      "watch": false,
+      "counter": {"target": 100000, "unit": "$ spent"},
+      "guide": "Spend $100,000 across all shops. The total counts cumulatively across every shop, so normal shopping adds up — clothes, weapons, food and everything else counts toward the same $100,000.",
+      "steps": [
+        "Shop across Leonida as you play.",
+        "Reach $100,000 spent in total."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "kind": "money",
+      "stage": 6,
+      "missable": false,
+      "watch": false,
+      "counter": null,
+      "guide": "Purchase all garage properties. Buy every garage property available in Leonida — each purchase is progress, and the trophy unlocks when the last one is yours.",
+      "steps": [
+        "Find the garage properties for sale.",
+        "Purchase them all."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "kind": "money",
+      "stage": 6,
+      "missable": false,
+      "watch": false,
+      "counter": {"target": 10, "unit": "vehicles"},
+      "guide": "Register 10 vehicles to the Scooter Bros app. Register ten different vehicles in the app — each new registration counts, so use ten different vehicles.",
+      "steps": [
+        "Open the Scooter Bros app.",
+        "Register 10 different vehicles."
+      ],
+      "sources": ["exophase", "psnprofiles"]
+    }
+  ]
+}
