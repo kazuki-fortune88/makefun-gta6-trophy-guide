@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en" data-theme="night">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sunset Platinum — GTA VI Trophy Guide &amp; Tracker</title>
+<meta name="description" content="An offline guide and tracker for the 55 PlayStation 5 trophies of Grand Theft Auto VI: checklist, roadmap to the platinum, missables, and a next-up planner. Every guide cites its sources.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='18' r='11' fill='%23ff6b4a'/%3E%3Crect y='24' width='32' height='8' fill='%230f1218'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-sun" aria-hidden="true"></div>
+  <div class="masthead-text">
+    <p class="eyebrow">Grand Theft Auto VI · PlayStation 5 · Offline guide</p>
+    <h1>Sunset Platinum</h1>
+    <p class="tagline">Every one of the 55 trophies — tracked, roadmapped, and cited. No network, no account, no Rockstar artwork: this guide is our own.</p>
+  </div>
+  <div class="masthead-progress" id="progressBox" aria-label="Progress to platinum">
+    <p class="big-count"><span id="earnedCount">0</span><span class="of"> / 55</span></p>
+    <p class="progress-label">earned · <span id="earnedPct">0%</span> to platinum</p>
+    <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="55" aria-valuenow="0" id="progressBar"><span id="progressFill"></span></div>
+    <p class="progress-grades" id="gradeCounts"></p>
+  </div>
+  <div class="masthead-actions">
+    <button id="themeToggle" type="button" title="Switch between the night and paper looks">☀ Paper look</button>
+    <button id="exportTop" type="button" title="Download your progress as JSON">Export progress</button>
+  </div>
+</header>
+<nav class="tabs" aria-label="Guide sections">
+  <a href="#/checklist" data-route="checklist">Checklist</a>
+  <a href="#/roadmap" data-route="roadmap">Roadmap</a>
+  <a href="#/missables" data-route="missables">Missables <span class="nav-badge" id="missableBadge">1</span></a>
+  <a href="#/planner" data-route="planner">Next up</a>
+  <a href="#/save" data-route="save">Save &amp; settings</a>
+</nav>
+<div class="toolbar" id="toolbar">
+  <label class="search">Search <input id="search" type="search" placeholder="Trophy name or word…  ( / )" autocomplete="off"></label>
+  <label>Kind
+    <select id="kindFilter">
+      <option value="all">All kinds</option>
+      <option value="story">Story</option>
+      <option value="missable">Missable &amp; timing-sensitive</option>
+      <option value="collectible">Collectibles</option>
+      <option value="activity">Activities</option>
+      <option value="mission">Story missions</option>
+      <option value="strand">Stranger strands</option>
+      <option value="challenge">Challenges</option>
+      <option value="exploration">Exploration</option>
+      <option value="combat">Combat &amp; heists</option>
+      <option value="money">Money &amp; property</option>
+      <option value="secret">Secrets</option>
+    </select>
+  </label>
+  <label>Grade
+    <select id="gradeFilter">
+      <option value="all">All grades</option>
+      <option value="platinum">Platinum</option>
+      <option value="gold">Gold</option>
+      <option value="silver">Silver</option>
+      <option value="bronze">Bronze</option>
+    </select>
+  </label>
+  <label>Show
+    <select id="earnedFilter">
+      <option value="all">Earned &amp; unearned</option>
+      <option value="unearned">Unearned only</option>
+      <option value="earned">Earned only</option>
+    </select>
+  </label>
+  <label class="switch-label" title="Hides the names and descriptions of story trophies until you earn them">
+    <input id="spoilerToggle" type="checkbox"> Spoilers off
+  </label>
+</div>
+<main class="layout">
+  <section class="view" id="view" aria-live="polite"></section>
+  <aside class="detail" id="detail" aria-label="Trophy guide"></aside>
+</main>
+<footer>
+  <p>Sources for the official list: <a href="https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/">Exophase</a> (names, descriptions, grades) and <a href="https://psnprofiles.com/trophies/43531-grand-theft-auto-vi">PSNProfiles</a> (PSN counts). Roadmap, missable and timing notes draw on <a href="https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/">PowerPyx's GTA 6 trophy guide &amp; roadmap</a>, cited beside each guide that uses it. Every guide is written for this entry, in its own words — a source is cited, never copied. 0 online trophies: the whole list is offline single-player. Works with the network off; progress is saved in this browser only.</p>
+  <p class="keys">Keys: <kbd>/</kbd> search · <kbd>e</kbd> toggle earned on the open trophy · <kbd>Esc</kbd> close the guide pane.</p>
+</footer>
+<script type="module" src="app.js"></script>
+</body>
+</html>
